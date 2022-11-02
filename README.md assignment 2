@@ -1,0 +1,26 @@
+- 👋 Hi, I’m @KulubyaPaul
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+KulubyaPaul/KulubyaPaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your chang
+
+using System.Collections.Generic;
+
+class Program{  
+  public static void Main(string[] args)    {        
+Program student = new Program();     
+   student.Display();    
+}     
+   String getStudentName = "Muhumuza";
+    int getStudentID = 12;    
+String getStudentAddress = "Mpererwe";    
+
+ void Display()    {        Console.WriteLine("Student Name: " +getStudentName);   
+     Console.WriteLine("Student ID: " +getStudentID);       
+ Console.WriteLine("Student Address: "+getStudentAddress);  
+  }
+}
